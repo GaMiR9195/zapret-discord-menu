@@ -1,2 +1,2 @@
-# zapret-discord-menu
-useful unblocker for discord
+# an discord/youtube unblocker (zapret) but with menu
+-
